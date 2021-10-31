@@ -1,0 +1,2 @@
+D:\GameMake\Plat\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GameMake\Plat\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
